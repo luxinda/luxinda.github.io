@@ -25,20 +25,19 @@ defaults:
 
 
 
-title: "RainyAlley"
-email: "sincerebravefight@gmail.com"
-description: "Developer"
-github_username:  "WakelessDragon"
+title: "Luxinda"
+email: "luxinda@gmail.com"
+description: "Happy World"
+github_username:  "luxinda"
 swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
-disqus_shortname: "rainyalley"
+disqus_shortname: ""
 
 
 
 
-url: "http://blog.rainyalley.com"
-imgrepo: "http://blog.rainyalley.com/static/img"
+url: "http://luxinda.me"
+#imgrepo: "http://blog.rainyalley.com/static/img"
 
 
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
-
